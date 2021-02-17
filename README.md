@@ -1,2 +1,2 @@
 # License-Plate-Identification
-License plate recognition using OpenCV
+Indian cars license plate recognition using OpenCV.
